@@ -4,27 +4,22 @@
 **Language:** Unknown
 
 ## Topics
-- N/A
+- Array
+- Two Pointers
 
 ## Performance
 - Runtime: N/A
 - Memory: N/A
 
 ## Approach
-Solved using Unknown. (Configure an AI provider API key in `.env` for an automatically generated, code-specific explanation.)
+*Write your approach or insights here.*
 
 ## Complexity
-Not automatically analyzed in fallback mode.
+- **Time Complexity:** *O(N)*
+- **Space Complexity:** *O(1)*
 
-## Key Insight
-Add notes manually, or enable AI generation for 'Next Permutation'.
-
-## Edge Cases
-Not automatically analyzed in fallback mode.
-
-
-## Problem
+## Problem Link
 https://leetcode.com/problems/next-permutation/
 
 ---
-*Synced automatically by CodeSync AI.*
+*Synced automatically by CodeSync.*
