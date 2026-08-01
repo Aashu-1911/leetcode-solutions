@@ -3,8 +3,8 @@
   "slug": "predict-the-winner",
   "difficulty": "Medium",
   "language": "Unknown",
-  "runtime": "N/A",
-  "memory": "N/A",
+  "runtime": "91 ms",
+  "memory": "9.6 MB",
   "topics": [
     "Array",
     "Math",
@@ -13,5 +13,5 @@
     "Game Theory"
   ],
   "url": "https://leetcode.com/problems/predict-the-winner/",
-  "submitted_at": "2026-08-01T17:23:35.416Z"
+  "submitted_at": "2026-08-01T18:09:18.759Z"
 }

@@ -11,8 +11,8 @@
 - Game Theory
 
 ## Performance
-- Runtime: N/A
-- Memory: N/A
+- Runtime: 91 ms
+- Memory: 9.6 MB
 
 ## Approach
 *Write your approach or insights here.*
