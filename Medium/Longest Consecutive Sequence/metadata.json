@@ -1,0 +1,15 @@
+{
+  "title": "Longest Consecutive Sequence",
+  "slug": "longest-consecutive-sequence",
+  "difficulty": "Medium",
+  "language": "Unknown",
+  "runtime": "N/A",
+  "memory": "N/A",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Union-Find"
+  ],
+  "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+  "submitted_at": "2026-08-03T09:41:57.259Z"
+}

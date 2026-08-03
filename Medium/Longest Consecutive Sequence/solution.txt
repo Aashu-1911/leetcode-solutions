@@ -1,0 +1,16 @@
+        int result = 0;
+        for(int i: ans){
+            if(!ans.count(i-1)){
+        }
+                while(ans.count(i+len)) len++;
+            }
+
+                
+                int len = 1;
+                result = max(result, len);
+
+    int longestConsecutive(vector<int>& nums) {
+        unordered_set<int>ans(nums.begin(), nums.end());
+        int maxcount = 0;
+class Solution {
+public:
