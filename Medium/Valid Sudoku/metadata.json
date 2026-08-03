@@ -1,0 +1,15 @@
+{
+  "title": "Valid Sudoku",
+  "slug": "valid-sudoku",
+  "difficulty": "Medium",
+  "language": "Unknown",
+  "runtime": "N/A",
+  "memory": "N/A",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Matrix"
+  ],
+  "url": "https://leetcode.com/problems/valid-sudoku/",
+  "submitted_at": "2026-08-03T02:08:24.865Z"
+}
