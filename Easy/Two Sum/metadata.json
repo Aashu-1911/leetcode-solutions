@@ -1,0 +1,14 @@
+{
+  "title": "Two Sum",
+  "slug": "two-sum",
+  "difficulty": "Easy",
+  "language": "Python3",
+  "runtime": "32 ms",
+  "memory": "17.2 MB",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "url": "https://leetcode.com/problems/two-sum/",
+  "submitted_at": "2026-08-03T01:26:05.073133+00:00"
+}
