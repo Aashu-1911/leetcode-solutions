@@ -1,15 +1,15 @@
 # Two Sum
 
 **Difficulty:** Easy
-**Language:** Python3
+**Language:** Unknown
 
 ## Topics
 - Array
 - Hash Table
 
 ## Performance
-- Runtime: 32 ms
-- Memory: 17.2 MB
+- Runtime: N/A
+- Memory: N/A
 
 ## Approach
 *Write your approach or insights here.*
