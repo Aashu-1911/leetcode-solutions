@@ -1,0 +1,14 @@
+{
+  "title": "Best Time to Buy and Sell Stock",
+  "slug": "best-time-to-buy-and-sell-stock",
+  "difficulty": "Easy",
+  "language": "Unknown",
+  "runtime": "N/A",
+  "memory": "N/A",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+  "submitted_at": "2026-08-06T17:09:27.206Z"
+}
