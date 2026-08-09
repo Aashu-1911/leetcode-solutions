@@ -1,0 +1,19 @@
+{
+  "title": "Stone Game II",
+  "slug": "stone-game-ii",
+  "difficulty": "Medium",
+  "language": "Unknown",
+  "runtime": "8 ms",
+  "memory": "13.6 MB",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Prefix Sum",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "url": "https://leetcode.com/problems/stone-game-ii/",
+  "submitted_at": "2026-08-09T14:30:37.294Z"
+}
