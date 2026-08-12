@@ -1,0 +1,15 @@
+{
+  "title": "3Sum",
+  "slug": "3sum",
+  "difficulty": "Medium",
+  "language": "Unknown",
+  "runtime": "49 ms",
+  "memory": "28.9 MB",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "url": "https://leetcode.com/problems/3sum/",
+  "submitted_at": "2026-08-12T17:44:13.008Z"
+}
