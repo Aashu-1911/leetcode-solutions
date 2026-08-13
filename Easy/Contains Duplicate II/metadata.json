@@ -1,0 +1,15 @@
+{
+  "title": "Contains Duplicate II",
+  "slug": "contains-duplicate-ii",
+  "difficulty": "Easy",
+  "language": "Unknown",
+  "runtime": "N/A",
+  "memory": "N/A",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "url": "https://leetcode.com/problems/contains-duplicate-ii/",
+  "submitted_at": "2026-08-13T02:02:34.684Z"
+}
