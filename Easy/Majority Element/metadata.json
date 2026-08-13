@@ -1,0 +1,18 @@
+{
+  "title": "Majority Element",
+  "slug": "majority-element",
+  "difficulty": "Easy",
+  "language": "Unknown",
+  "runtime": "0 ms",
+  "memory": "28.3 MB",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Counting",
+    "Boyer\u2013Moore Majority Vote Algorithm"
+  ],
+  "url": "https://leetcode.com/problems/majority-element/",
+  "submitted_at": "2026-08-13T14:06:50.536Z"
+}
