@@ -1,0 +1,16 @@
+public:
+    bool isAnagram(string s, string t) {
+        int arr1[26] = {0};
+        int arr2[26] = {0};
+
+        for(char ch: s){
+            arr1[ch - 'a']++;
+        }
+        for(char ch: t){
+            arr2[ch - 'a']++;
+        }
+        for(int i=0;i<26;i++){
+            if(arr1[i] != arr2[i]) return false;
+        }
+        return true;
+    }
