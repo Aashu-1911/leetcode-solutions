@@ -1,0 +1,16 @@
+{
+  "title": "Group Anagrams",
+  "slug": "group-anagrams",
+  "difficulty": "Medium",
+  "language": "Unknown",
+  "runtime": "18 ms",
+  "memory": "26.1 MB",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "url": "https://leetcode.com/problems/group-anagrams/",
+  "submitted_at": "2026-08-14T13:46:19.671Z"
+}
