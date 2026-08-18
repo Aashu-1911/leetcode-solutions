@@ -3,8 +3,8 @@
   "slug": "group-anagrams",
   "difficulty": "Medium",
   "language": "Unknown",
-  "runtime": "18 ms",
-  "memory": "26.1 MB",
+  "runtime": "14 ms",
+  "memory": "26.3 MB",
   "topics": [
     "Array",
     "Hash Table",
@@ -12,5 +12,5 @@
     "Sorting"
   ],
   "url": "https://leetcode.com/problems/group-anagrams/",
-  "submitted_at": "2026-08-14T13:46:19.671Z"
+  "submitted_at": "2026-08-18T03:24:35.418Z"
 }
