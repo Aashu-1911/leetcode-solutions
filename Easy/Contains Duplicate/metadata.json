@@ -3,13 +3,13 @@
   "slug": "contains-duplicate",
   "difficulty": "Easy",
   "language": "Unknown",
-  "runtime": "N/A",
-  "memory": "N/A",
+  "runtime": "81 ms",
+  "memory": "111.2 MB",
   "topics": [
     "Array",
     "Hash Table",
     "Sorting"
   ],
   "url": "https://leetcode.com/problems/contains-duplicate/",
-  "submitted_at": "2026-10-14T12:22:56.394Z"
+  "submitted_at": "2026-10-14T12:29:59.870Z"
 }
