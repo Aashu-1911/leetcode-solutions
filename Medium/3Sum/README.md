@@ -9,8 +9,8 @@
 - Sorting
 
 ## Performance
-- Runtime: 49 ms
-- Memory: 28.9 MB
+- Runtime: N/A
+- Memory: N/A
 
 ## Approach
 *Write your approach or insights here.*
