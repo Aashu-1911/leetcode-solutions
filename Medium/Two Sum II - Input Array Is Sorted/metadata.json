@@ -3,13 +3,13 @@
   "slug": "two-sum-ii-input-array-is-sorted",
   "difficulty": "Medium",
   "language": "Unknown",
-  "runtime": "N/A",
-  "memory": "N/A",
+  "runtime": "0 ms",
+  "memory": "19.5 MB",
   "topics": [
     "Array",
     "Two Pointers",
     "Binary Search"
   ],
   "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
-  "submitted_at": "2026-08-08T12:44:04.211Z"
+  "submitted_at": "2026-10-22T11:44:11.000Z"
 }
