@@ -3,12 +3,12 @@
   "slug": "valid-palindrome",
   "difficulty": "Easy",
   "language": "Unknown",
-  "runtime": "N/A",
-  "memory": "N/A",
+  "runtime": "1 ms",
+  "memory": "9.7 MB",
   "topics": [
     "Two Pointers",
     "String"
   ],
   "url": "https://leetcode.com/problems/valid-palindrome/",
-  "submitted_at": "2026-08-08T12:24:19.191Z"
+  "submitted_at": "2026-10-23T06:47:14.075Z"
 }
