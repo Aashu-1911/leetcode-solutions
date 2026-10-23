@@ -1,0 +1,14 @@
+                swap(nums[i],nums[j]);
+            } else if(nums[j] == 1){
+                i++;
+                j++;
+                j++;
+            } else{
+            if(nums[j]==0){
+                swap(nums[j],nums[k]);
+                k--;
+            }
+        }
+        
+    }
+};
