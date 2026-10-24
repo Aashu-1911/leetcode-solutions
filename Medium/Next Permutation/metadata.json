@@ -3,12 +3,12 @@
   "slug": "next-permutation",
   "difficulty": "Medium",
   "language": "Unknown",
-  "runtime": "N/A",
+  "runtime": "0 ms",
   "memory": "N/A",
   "topics": [
     "Array",
     "Two Pointers"
   ],
   "url": "https://leetcode.com/problems/next-permutation/",
-  "submitted_at": "2026-07-31T03:48:33.262Z"
+  "submitted_at": "2026-10-24T17:39:48.003Z"
 }
