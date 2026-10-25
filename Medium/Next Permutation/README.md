@@ -8,7 +8,7 @@
 - Two Pointers
 
 ## Performance
-- Runtime: 0 ms
+- Runtime: N/A
 - Memory: N/A
 
 ## Approach
