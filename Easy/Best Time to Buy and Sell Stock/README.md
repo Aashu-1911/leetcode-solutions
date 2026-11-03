@@ -8,8 +8,8 @@
 - Dynamic Programming
 
 ## Performance
-- Runtime: N/A
-- Memory: N/A
+- Runtime: 0 ms
+- Memory: 97.3 MB
 
 ## Approach
 *Write your approach or insights here.*
