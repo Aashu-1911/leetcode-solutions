@@ -3,12 +3,12 @@
   "slug": "best-time-to-buy-and-sell-stock",
   "difficulty": "Easy",
   "language": "Unknown",
-  "runtime": "0 ms",
+  "runtime": "1 ms",
   "memory": "97.3 MB",
   "topics": [
     "Array",
     "Dynamic Programming"
   ],
   "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
-  "submitted_at": "2026-11-03T16:43:09.272Z"
+  "submitted_at": "2026-11-11T01:32:14.588Z"
 }
